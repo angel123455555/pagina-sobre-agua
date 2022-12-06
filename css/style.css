@@ -1,0 +1,12 @@
+/*body {
+    height: 800px;
+    background-image: url("/./img/1.png");
+    background-size: cover;
+    background-size: 25rem;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+  }*/
+
+
+  div,p {width:222px; height:25px; background:#000; color:#fff; opacity:0.5; filter:alpha(opacity=50); -moz-opacity:0.5;}
